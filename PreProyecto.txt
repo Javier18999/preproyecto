@@ -1,6 +1,7 @@
 Preproyecto final
 
 Resumen:
+
 El objetivo de este proyecto es diseñar y desarrollar una plataforma de comercio electrónico utilizando WordPress. La plataforma permitirá a los usuarios comprar y vender productos en línea, con opciones de pago seguras y funciones de administración de inventario y pedidos. Se utilizarán las herramientas y funciones disponibles en WordPress, así como plugins y widgets de comercio electrónico para crear una plataforma atractiva y funcional.
 
 Objetivos:
@@ -10,7 +11,9 @@ Integrar opciones de pago seguras y funciones de administración de inventario y
 Demostrar la capacidad de personalizar el aspecto y la funcionalidad de una plataforma de comercio electrónico utilizando WordPress.
 Utilizar plugins y widgets de comercio electrónico para mejorar la funcionalidad de la plataforma.
 Asegurar que la plataforma cumpla con los estándares de seguridad y privacidad requeridos para las transacciones en línea.
+
 Metodología:
+
 El proyecto se llevará a cabo siguiendo los siguientes pasos:
 
 Investigación y análisis de las necesidades del cliente hipotético.
@@ -20,6 +23,7 @@ Integración de opciones de pago seguras y funciones de administración de inven
 Creación de contenido y personalización de la plataforma utilizando las herramientas y funciones de WordPress.
 Pruebas y evaluación de la plataforma para asegurar que cumpla con las especificaciones y necesidades del cliente.
 Implementación de medidas de seguridad y privacidad para garantizar la protección de los datos de los usuarios y las transacciones en línea.
+
 Recursos:
 
 Ordenador con acceso a Internet.
@@ -27,6 +31,7 @@ WordPress instalado en el servidor.
 Herramientas de diseño web y prototipado.
 Temas y plugins de WordPress.
 Plugins y widgets de comercio electrónico.
+
 Resultados esperados:
 
 Plataforma de comercio electrónico personalizada que cumpla con las especificaciones y necesidades del cliente.
